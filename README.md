@@ -1,1 +1,1 @@
-![screenshot](canvas.png)
+![screenshot](screenshot.png)
